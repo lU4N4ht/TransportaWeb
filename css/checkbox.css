@@ -37,6 +37,7 @@
     width: 70px;
     height: 70px;
     border: 2px solid var(--vermelho);
+    background-color: var(--branco);
     margin-right: 10px;
     cursor: pointer;
     background-repeat: no-repeat;
